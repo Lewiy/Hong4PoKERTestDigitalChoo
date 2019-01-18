@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 21
     buildToolsVersion "27.0.3"
 
     defaultConfig {
         applicationId "com.example.hong4poker"
         minSdkVersion 9
-        targetSdkVersion 19
+        targetSdkVersion 21
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_7
             targetCompatibility JavaVersion.VERSION_1_7
@@ -23,10 +23,12 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:support-v4:19.1.0'
+    implementation 'com.android.support:support-v4:21.0.0'
     implementation 'com.squareup.retrofit2:retrofit:2.5.0'
     implementation 'org.kie.modules:com-google-code-gson:6.5.0.Final'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
     implementation 'com.squareup.retrofit2:adapter-rxjava2:2.5.0'
+    implementation 'com.android.support:appcompat-v7:21.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }
