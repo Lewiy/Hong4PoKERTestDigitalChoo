@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,9,6,4,10,8,5,11,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,461,251,105,514,383,167,599,323",
+                        "endColumns": "48,52,71,61,84,77,83,72,59",
+                        "endOffsets": "100,509,318,162,594,456,246,667,378"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,157,229,291,376,454,538,611",
+                        "endColumns": "48,52,71,61,84,77,83,72,59",
+                        "endOffsets": "99,152,224,286,371,449,533,606,666"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "11,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "671,962",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "957,1117"
+                    }
+                }
+            ]
+        }
+    ]
+}

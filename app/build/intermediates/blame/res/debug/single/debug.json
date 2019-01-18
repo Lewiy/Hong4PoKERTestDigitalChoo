@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s7.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c1.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_win.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\win.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_cards.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\cards.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d6.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d10.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d10.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h10.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h10.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow2.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\arrow2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_gaming.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_single_gaming.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d2.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c10.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c10.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_otherquit.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\otherquit.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h7.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d9.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h13.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h13.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user1select.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\user1select.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s4.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h4.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_youquit.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\youquit.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c8.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c8.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s12.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s12.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d11.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d11.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intropage.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\intropage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s6.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_gaming1.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\gaming1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d3.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c11.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c11.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h11.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h11.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intropage2.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\intropage2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s10.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s10.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c4.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d7.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h1.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s3.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gobutton.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\gobutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h5.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_prefs.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h8.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h8.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user2select.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\user2select.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s13.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s13.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_muti_player_selection.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_muti_player_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c7.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c7.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s11.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s11.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h2.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_mode_selection.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_single_mode_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c3.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user2.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\user2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s9.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pokertbl.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\pokertbl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h12.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h12.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_intro_sound.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\intro_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_anew_game.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_start_anew_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d1.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_shuffle.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\shuffle.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user1.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h6.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s1.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c6.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c6.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intropage3.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\intropage3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d12.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d12.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d4.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h9.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c12.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c12.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_page.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d5.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h3.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\h3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c9.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c9.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_flipcards.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\flipcards.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d13.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d13.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_cool_menu.xml.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\menu\\cool_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s8.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s8.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_skipbutton.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\skipbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_send.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\send.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s2.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c5.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d8.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\d8.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s5.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\s5.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_fail.mp3.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\raw\\fail.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c13.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c13.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c2.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intropage4.jpg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\intropage4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_singleselectionback.jpeg.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\singleselectionback.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\Lev-\\AndroidStudioProjects\\Hong4PoKER-master\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    }
+]
