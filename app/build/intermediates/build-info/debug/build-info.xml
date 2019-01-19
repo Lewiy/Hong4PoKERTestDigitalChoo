@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="26"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1547846822487"
+    timestamp="1547896859509"
     token="-8140924895321170768"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,13 +23,50 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1547837557739"
+        timestamp="1547896859509"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
@@ -37,10 +74,10 @@
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -50,6 +87,9 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -67,27 +107,5 @@
             location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="METHOD_ANNOTATION_CHANGE"
-        timestamp="1547843159228"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1547846583283"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Lev-\AndroidStudioProjects\Hong4PoKER-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1547846822487"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

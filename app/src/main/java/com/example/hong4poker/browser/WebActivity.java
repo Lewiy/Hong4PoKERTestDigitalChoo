@@ -23,34 +23,30 @@ public class WebActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_web);
-       // CookieSyncManager.createInstance(this);
-        CookieSyncManager.getInstance().startSync();
-
-        CookieManager.getInstance().setAcceptCookie(true);
-
-
-        webView = (WebView) findViewById(R.id.webView);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            CookieManager.getInstance().setAcceptThirdPartyCookies(webView,true);
-        }
-        // включаем поддержку JavaScript
-        webView.getSettings().setJavaScriptEnabled(true);
-        // указываем страницу загрузки
-
         Intent intent = getIntent();
 
-        webView.loadUrl(intent.getStringExtra(App.URLTAG));
+        webView = new WebView(this);
+
+        webView.getSettings().setJavaScriptEnabled(true);
 
         webView.setWebViewClient(new MyWebViewClient());
         webView.getSettings().setCacheMode(WebSettings.LOAD_DEFAULT);
+        setContentView(webView);
+        webView.loadUrl(intent.getStringExtra(App.URLTAG));
+
     }
 
     private class MyWebViewClient extends WebViewClient {
         // Для старых устройств
-        @Override
+        @SuppressWarnings("deprecation") @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
             view.loadUrl(url);
+            return true;
+        }
+
+        @TargetApi(Build.VERSION_CODES.N) @Override
+        public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
+            view.loadUrl(request.getUrl().toString());
             return true;
         }
     }

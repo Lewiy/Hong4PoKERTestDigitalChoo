@@ -56,7 +56,6 @@ public class App extends Application {
 
 
     private void parseConfigString(Configs configs,String error) {
-
         if(configs != null &&  configs.getOpen().equals(LINKSTATE)){
             runBrowser(configs.getOpenlink());
         }
